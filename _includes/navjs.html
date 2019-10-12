@@ -1,0 +1,46 @@
+<script type="text/javascript">
+if (location.search.length > 1)
+    location.href = "./#" + location.search.substring(1);
+
+var _navElements = document.querySelectorAll(".nav > .nav__item");
+var _pageElements = document.querySelectorAll(".tabs > div");
+
+function onPage(page) {
+    var element;
+    while (element = document.querySelector(".nav > .nav__item[selected]"))
+        element.removeAttribute("selected");
+
+    element = document.querySelector(".nav > .nav__item[href=\"#" + page + "\"]");
+    element.setAttribute("selected", true);
+
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+
+function createPageTrigger(element) {
+	element.addEventListener("click", function(e) {
+	    e.preventDefault();
+	    history.pushState({}, "", element.href);
+	    history.pushState({}, "", element.href);
+	    history.back();
+
+	    onPage(element.href.split('#')[1]);
+	});
+}
+
+for (var i = 0; i < _navElements.length; i++) {
+	if (_navElements[i].href) 
+	    createPageTrigger(_navElements[i]);
+}
+
+window.onhashchange = function() {
+    if (location.hash.length > 1)
+        onPage(location.hash.substring(1));
+};
+
+window.addEventListener("hashchange", window.onhashchange);
+window.onhashchange();
+
+window.onload = window.onhashchange;
+window.addEventListener("load", window.onload);
+</script>

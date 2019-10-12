@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	{% include head.html %}
+	<link href="/css/files.css" rel="stylesheet">
+</head>
+<body>
+	<main>
+		{% assign parts = page.url | split: '/' %}
+		<a class="link" href="{% for i in (4..parts.size) %}../{% endfor %}">
+			<img class="link__img" src="/images/ic/back.svg">
+			<span class="link__title">Project Info</span>
+		</a>
+		{% if parts.size == 4 %}
+			<h2>Documentation Pages</h2>
+		{% endif %}
+		{{ content }}
+	</main>
+
+	{% include snackbar.html %}
+	{% include footer.html %}
+</body>
+</html>
+	

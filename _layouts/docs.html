@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	{% include head.html %}
+</head>
+<body>
+	<sidebar class="sidebar">
+	    <h2>Adjacent Files</h2>
+		{% capture sidebar_include %}{% include_relative index.md %}{% endcapture %}
+		{{ sidebar_include | newline_to_br | split: '<br />' | shift | shift | shift | shift | shift | join: '' | markdownify }}
+	</sidebar>
+	<main>
+		{% assign parts = page.url | split: '/' %}
+		<a class="link" href="{% for i in (5..parts.size) %}../{% endfor %}">
+			<img class="link__img" src="/images/ic/back.svg">
+			<span class="link__title">Project Info</span>
+		</a>
+
+		<div class="markdown">
+			{{ content }}
+		</div>
+	</main>
+
+	{% include snackbar.html %}
+	{% include footer.html %}
+</body>
+</html>
+	
