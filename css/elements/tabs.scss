@@ -1,0 +1,9 @@
+.tabs > div:target ~ div:last-child,
+.tabs > div {
+    display: none;
+}
+
+.tabs > :last-child,
+.tabs > div:target {
+    display: block;
+}
