@@ -10,10 +10,7 @@ profile: true
         <i class="nav__item__icon material-icons">home</i>
         <span class="nav__item__title">Home</span>
     </a>
-    <a class="nav__item" href="#blog">
-        <i class="nav__item__icon material-icons">notes</i>
-        <span class="nav__item__title">Blog</span>
-    </a>
+   
     <a class="nav__item" href="#projects">
         <i class="nav__item__icon material-icons">code</i>
         <span class="nav__item__title">Projects</span>
@@ -28,18 +25,7 @@ profile: true
     </a>
 </nav>
 <main id="main" class="tabs">
-    <div id="blog" class="h-feed">
-        <p class="markdown">
-            These are my blogs. I usually talk about why I make certain projects, what they are supposed to do, and how they supposedly accomplish it. I do not post often,
-            as it takes quite a while to write these posts. 
-        </p>
-        <h2 class="p-name">The Blogs</h2>
-        <p>
-            {% for blog in site.posts %}
-            {% include item-blog.html blog=blog %}
-            {% endfor %}
-        </p>
-    </div>
+    
     <div id="projects">
         <div id="projectsCategories" class="categories">
             {% assign types = site.types | sort: "order" %}
