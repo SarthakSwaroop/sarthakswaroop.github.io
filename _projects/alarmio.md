@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "android-app"
-title: "Alarmio"
+title: "Beep"
 description: "A simple alarm clock focused on design, readability, and internet radio."
 title: "Beep Alarm"
 description: "A simple alarm clock focused on design,and convenience"
@@ -41,7 +41,7 @@ pushed: "2019-09-28T19:14:28Z"
 
 
 
-Alarmio is a simple alarm clock that implements many useful features while following regular design standards to ensure that it is quick and intuitive to use.
+Beep is a simple alarm clock that implements many useful features while following regular design standards to ensure that it is quick and intuitive to use.
 
 ## Screenshots
 
