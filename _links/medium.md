@@ -2,7 +2,7 @@
 layout: redirect
 title: medium
 readable: Medium
-link: https://medium.com/@fennifith
+link: https://https://medium.com/@sarthakswarup00
 name: fennifith
 verb: publish
 ---
