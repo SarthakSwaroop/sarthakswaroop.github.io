@@ -1,5 +1,5 @@
-name: Sarthak Bansal
-author: Sarthak Bansal
+name: Sarthak Swaroop Bansal
+author: Sarthak Swaroop Bansal
 email: "sarthakswarup00@gmail.com"
 bio: "Enjoys writing software on loud keyboards. Starts too many projects. Consumes food."
 description: "Writer of bad puns and slightly better software. This website contains information about my adventures in programming, current projects, and me."
@@ -14,8 +14,8 @@ contact:
     icon: "chat"
     url: "https://t.me/joinchat/JV--FRZrSf-NJqeE0OGKXg"
 
-url: "https://jfenn.me"
-domainurl: "https://jfenn.me"
+url: "https://sarthakswaroop.github.io"
+domainurl: "https://sarthakswaroop.github.io"
 baseurl: "/"
 
 collections:
