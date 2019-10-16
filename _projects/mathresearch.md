@@ -1,7 +1,7 @@
 ---
 layout: "project"
-type: "Research"
-title: "Robotics"
+type: "research"
+title: "Distance Optimization With Graph Theory"
 description: "Documentation of stuff done in my robotics class."
 repo: "fennifith/Robotics"
 git: "git://github.com/fennifith/Robotics.git"
