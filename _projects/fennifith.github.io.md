@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "website"
-title: "Fennifith.github.io"
+title: "SarthakSwaroop.github.io"
 description: "My personal website."
 repo: "fennifith/fennifith.github.io"
 git: "git://github.com/fennifith/fennifith.github.io.git"
