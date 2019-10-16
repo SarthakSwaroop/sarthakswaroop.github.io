@@ -1,6 +1,6 @@
 ---
 layout: "project"
-type: "android-app"
+type: "unknown"
 title: "Pasta for Spotify"
 description: "A material design Spotify client for Android"
 icon: "https://raw.githubusercontent.com/fennifith/Pasta-for-Spotify/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_web.png"
