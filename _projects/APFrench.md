@@ -1,6 +1,6 @@
 ---
 layout: "project"
-type: "undefined"
+type: "online-courses"
 title: "jacksonhvisuals/5217-web"
 description: "5217 - Web"
 repo: "fennifith/5217-web"
