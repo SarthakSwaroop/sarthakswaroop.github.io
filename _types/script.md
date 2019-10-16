@@ -1,5 +1,5 @@
 ---
 order: 3
-tag: cli
-title: Scripts
+tag: online-courses
+title: Online Courses
 ---
