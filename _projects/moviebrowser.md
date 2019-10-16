@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "android-app"
-title: "Media Notification"
+title: "Movie Browser"
 description: "Slightly unstable attempt to replace all media notifications with Android O styled copies."
 icon: "https://raw.githubusercontent.com/fennifith/MediaNotification/master/app/src/main/ic_launcher-web.png"
 repo: "fennifith/MediaNotification"
