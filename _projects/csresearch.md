@@ -1,7 +1,7 @@
 ---
 layout: "project"
-type: "website"
-title: "Cellularmusic"
+type: "research"
+title: "Research on Diagnosis of Alzheimer's or Other Dementia With Aid of Machine Learning"
 description: "A \"cellular automaton\" based music generation tool, written with p5js."
 repo: "fennifith/cellularmusic"
 git: "git://github.com/fennifith/cellularmusic.git"
