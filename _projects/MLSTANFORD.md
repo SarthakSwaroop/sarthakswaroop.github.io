@@ -1,6 +1,6 @@
 ---
 layout: "project"
-type: "undefined"
+type: "online-courses"
 title: "Technologx/BlueRain"
 description: "A widget dashboard to make your life easier!"
 repo: "fennifith/BlueRain"
