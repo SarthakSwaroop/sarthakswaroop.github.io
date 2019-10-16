@@ -1,6 +1,6 @@
 ---
 layout: "project"
-type: "android-app"
+type: "unknown"
 title: "Metronome Android"
 description: "A lightweight, well designed metronome app for Android."
 icon: "https://raw.githubusercontent.com/fennifith/Metronome-Android/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
