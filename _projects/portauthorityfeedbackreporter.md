@@ -1,6 +1,6 @@
 ---
 layout: "project"
-type: "android-app"
+type: "android-"
 title: "Port Authority Feedback Reporter"
 description: "A small application to make it easier for riders to report issues to the Pittsburgh Port Authority bus system."
 icon: "https://raw.githubusercontent.com/fennifith/PortAuthorityFeedbackReporter/master/app/src/main/ic_launcher-web.png"
