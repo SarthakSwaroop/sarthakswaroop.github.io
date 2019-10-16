@@ -1,6 +1,6 @@
 ---
 layout: "project"
-type: "undefined"
+type: "online-courses"
 title: "crazeeadil/artme"
 description: "ArtMe - A wallpaper app."
 repo: "fennifith/artme"
