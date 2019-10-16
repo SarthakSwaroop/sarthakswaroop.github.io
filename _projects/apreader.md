@@ -1,6 +1,6 @@
 ---
 layout: "project"
-type: "android-app"
+type: "online-courses"
 title: "AP Reader"
 description: "A small app that displays Android Police articles without waiting for the website to load."
 icon: "https://raw.githubusercontent.com/fennifith/APReader/master/app/src/main/ic_launcher-web.png"
