@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "android-app"
-title: "Hack NA Notes"
+title: "ToDo"
 description: "A small sample project created for a workshop at HackNA."
 repo: "fennifith/HackNA-Notes"
 git: "git://github.com/fennifith/HackNA-Notes.git"
