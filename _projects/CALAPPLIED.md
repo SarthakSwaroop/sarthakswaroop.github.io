@@ -1,6 +1,6 @@
 ---
 layout: "project"
-type: "android-app"
+type: "online-courses"
 title: "Cleaner"
 description: "The only storage saving app that actually works! &#58;D"
 icon: "https://raw.githubusercontent.com/fennifith/Cleaner/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_web.png"
