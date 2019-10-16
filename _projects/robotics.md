@@ -1,6 +1,6 @@
 ---
 layout: "project"
-type: "undefined"
+type: "Research"
 title: "Robotics"
 description: "Documentation of stuff done in my robotics class."
 repo: "fennifith/Robotics"
