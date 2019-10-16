@@ -1,6 +1,6 @@
 ---
 layout: "project"
-type: "undefined"
+type: "Research"
 title: "msasikanth/Frames"
 description: "A full-of-features, easy-to-customize, free and open source, light-weight, Material Design dashboard library to create Android Wallpapers apps with almost-null effort."
 repo: "fennifith/Frames"
