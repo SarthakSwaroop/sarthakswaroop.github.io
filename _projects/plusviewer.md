@@ -1,6 +1,6 @@
 ---
 layout: "project"
-type: "android-app"
+type: "android-"
 title: "Plus Viewer"
 description: "A basic google plus client using a WebView"
 icon: "https://raw.githubusercontent.com/fennifith/PlusViewer/master/app/src/main/ic_launcher-web.png"
