@@ -1,6 +1,6 @@
 ---
 layout: "project"
-type: "android-app"
+type: "unidentified"
 title: "Monkey Tester"
 description: "Determines whether a user is a monkey, a goat, or both, based on values obtained from android's ActivityManager and UserManager."
 icon: "https://raw.githubusercontent.com/fennifith/MonkeyTester/master/app/src/main/ic_launcher-web.png"
