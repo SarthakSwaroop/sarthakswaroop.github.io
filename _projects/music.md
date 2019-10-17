@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "website"
-title: "Music"
+title: "Finance"
 description: "A collection of my piano compositions and other music-related projects."
 repo: "fennifith/Music"
 git: "git://github.com/fennifith/Music.git"
