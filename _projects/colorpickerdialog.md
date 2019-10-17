@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "android-library"
-title: "Color Picker Dialog"
+title: "UI-Design-Event-Planning-App"
 description: "A simple dialog making it quick and easy to add color picking functionality to any app."
 repo: "fennifith/ColorPickerDialog"
 git: "git://github.com/fennifith/ColorPickerDialog.git"
