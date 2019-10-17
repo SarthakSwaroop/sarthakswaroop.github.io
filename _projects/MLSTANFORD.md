@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "online-courses"
-title: "Technologx/BlueRain"
+title: "Machine Learning"
 description: "A widget dashboard to make your life easier!"
 repo: "fennifith/BlueRain"
 git: "git://github.com/fennifith/BlueRain.git"
