@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "website"
-title: "Photos"
+title: "shutterup.github.io"
 description: "A collection of my photography, published under the Creative Commons License."
 repo: "fennifith/photos"
 git: "git://github.com/fennifith/photos.git"
