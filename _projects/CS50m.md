@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "online-courses"
-title: "crazeeadil/artme"
+title: "CS50's Mobile App Development with React Native"
 description: "ArtMe - A wallpaper app."
 repo: "fennifith/artme"
 git: "git://github.com/fennifith/artme.git"
