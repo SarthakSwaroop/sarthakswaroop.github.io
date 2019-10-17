@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "website"
-title: "Pixularautomaton"
+title: "Homepage"
 description: "A basic cellular automaton that makes pretty animations from images."
 repo: "fennifith/pixularautomaton"
 git: "git://github.com/fennifith/pixularautomaton.git"
