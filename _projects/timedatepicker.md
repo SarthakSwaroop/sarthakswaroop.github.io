@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "android-library"
-title: "Time Date Picker"
+title: "UI-Design-Messenger-App"
 description: "A simple Android library containing several time/date pickers and dialogs."
 repo: "fennifith/TimeDatePicker"
 git: "git://github.com/fennifith/TimeDatePicker.git"
