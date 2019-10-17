@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "website"
-title: "P5Samples"
+title: "MashUp"
 description: "Stuff I made messing around with p5js in my free time."
 repo: "fennifith/P5Samples"
 git: "git://github.com/fennifith/P5Samples.git"
