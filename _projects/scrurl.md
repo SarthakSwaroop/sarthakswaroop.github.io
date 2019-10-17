@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "website"
-title: "Scrurl"
+title: "Similarities"
 description: "Scrolling urls, a.k.a. the second worst website I've ever made."
 repo: "fennifith/Scrurl"
 git: "git://github.com/fennifith/Scrurl.git"
