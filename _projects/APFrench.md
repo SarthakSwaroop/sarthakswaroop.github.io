@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "online-courses"
-title: "jacksonhvisuals/5217-web"
+title: "On-Ramp to AP® French Language and Culture"
 description: "5217 - Web"
 repo: "fennifith/5217-web"
 git: "git://github.com/fennifith/5217-web.git"
