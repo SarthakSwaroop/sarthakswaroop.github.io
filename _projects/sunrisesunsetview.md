@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "android-library"
-title: "Sunrise Sunset View"
+title: "UI-Design-Messenger-App"
 description: "A lightweight Android view used for displaying and/or editing sunrise and sunset times."
 repo: "fennifith/SunriseSunsetView"
 git: "git://github.com/fennifith/SunriseSunsetView.git"
