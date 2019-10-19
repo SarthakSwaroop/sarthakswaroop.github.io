@@ -2,7 +2,7 @@
 layout: "project"
 type: "android-app"
 title: "ToDo"
-description: "A small sample project created for a workshop at HackNA."
+description: "App made using react native as part of CS50M"
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/output-onlinepngtools%20(4).png"
 repo: "fennifith/HackNA-Notes"
 git: "git://github.com/fennifith/HackNA-Notes.git"
