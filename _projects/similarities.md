@@ -2,7 +2,8 @@
 layout: "project"
 type: "website"
 title: "Similarities"
-description: "Scrolling urls, a.k.a. the second worst website I've ever made."
+description: "A webpage to determine similarities between words"
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/icon-code-9.jpg"
 repo: "fennifith/Scrurl"
 git: "git://github.com/fennifith/Scrurl.git"
 links: 
