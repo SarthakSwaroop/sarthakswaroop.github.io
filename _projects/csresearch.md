@@ -2,7 +2,7 @@
 layout: "project"
 type: "research"
 title: "Diagnosis of Alzheimer's With Machine Learning"
-description: "A \"cellular automaton\" based music generation tool, written with p5js."
+description: "Screening test to diagnose mental dementia"
 repo: "fennifith/cellularmusic"
 git: "git://github.com/fennifith/cellularmusic.git"
 links: 
@@ -45,6 +45,4 @@ This was mainly inspired by the work of [Lars Dietrich](https://www.youtube.com/
 
 Some of the actual music generation strategies are based on [this article](https://web.archive.org/web/20160312060120/http://www.ibm.com/developerworks/library/j-camusic/index.html) by Paul D. Reiners about the relationship between cellular automata and music. Huge thanks to the [Wayback Machine](https://archive.org/) for keeping copies of these things so that they aren't completely lost to the void when [IBM redesigns their developer site and removes a bunch of useful information](https://twitter.com/fennifith/status/1118354510643191808).
 
-## Building
 
-I use [`make`](https://gnu.org/software/make/) for local testing and development. To install the project's dependencies, run `make install`. Once that is finished, simply running `make` should build and serve a local version of the site. To clean up build files and such afterwards, run `make clean`.
