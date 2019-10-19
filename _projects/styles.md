@@ -3,6 +3,7 @@ layout: "project"
 type: "website"
 title: "Styles"
 description: "A collection of all my CSS styles, organized and documented."
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/icon-code-9.jpg"
 repo: "fennifith/styles"
 git: "git://github.com/fennifith/styles.git"
 links: 
