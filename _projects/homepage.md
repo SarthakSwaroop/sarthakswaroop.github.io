@@ -2,7 +2,7 @@
 layout: "project"
 type: "website"
 title: "Homepage"
-description: "A basic cellular automaton that makes pretty animations from images."
+description: "A personalized homepage made as part of CS50"
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/icon-code-9.jpg"
 repo: "fennifith/pixularautomaton"
 git: "git://github.com/fennifith/pixularautomaton.git"
