@@ -4,8 +4,8 @@ permalink: /manifest.json
 ---
 
 {
-  "name": "James Fenn",
-  "short_name": "James Fenn",
+  "name": "Sarthak Swaroop Bansal",
+  "short_name": "Sarthak Bansal",
   "icons": [{
         "src": "/images/favicon-96.png",
         "sizes": "96x96",
