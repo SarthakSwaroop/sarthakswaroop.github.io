@@ -3,7 +3,7 @@ layout: "project"
 type: "website"
 title: "Finance"
 description: "A web app that allows user to play with real time stocks."
-icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/output-onlinepngtools%20(5).png"
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/icon-code-9.jpg"
 repo: "fennifith/Music"
 git: "git://github.com/fennifith/Music.git"
 links: 
