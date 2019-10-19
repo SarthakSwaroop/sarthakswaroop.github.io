@@ -3,6 +3,7 @@ layout: "project"
 type: "android-library"
 title: "Sunrise Sunset View"
 description: "A lightweight Android view used for displaying and/or editing sunrise and sunset times."
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/output-onlinepngtools (1).png"
 repo: "fennifith/SunriseSunsetView"
 git: "git://github.com/fennifith/SunriseSunsetView.git"
 links: 
