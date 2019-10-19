@@ -2,7 +2,8 @@
 layout: "project"
 type: "online-courses"
 title: "On-Ramp to AP® French Language and Culture"
-description: "5217 - Web"
+description: "Online course offered by WESTONHS"
+icon:"https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/output-onlinepngtools.png"
 repo: "fennifith/5217-web"
 git: "git://github.com/fennifith/5217-web.git"
 links: 
