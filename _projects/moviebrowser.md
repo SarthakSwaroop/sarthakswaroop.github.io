@@ -43,7 +43,7 @@ languages:
   - "Java"
 isDocs: "true"
 isWiki: "false"
-pushed: "2019-01-08T16:25:31Z"
+pushed: "2019-09-28T19:14:28Z"
 ---
 
 MediaNotification is a slightly unstable attempt to create Android O styled media notifications. Please note that this app does not replace media notifications coming from other apps, but it creates new notifications on its own. The most common methods of use are as follows:
