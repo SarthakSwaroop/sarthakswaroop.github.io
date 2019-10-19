@@ -2,7 +2,8 @@
 layout: "project"
 type: "website"
 title: "Finance"
-description: "A collection of my piano compositions and other music-related projects."
+description: "A web app that allows user to play with real time stocks."
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/output-onlinepngtools%20(5).png"
 repo: "fennifith/Music"
 git: "git://github.com/fennifith/Music.git"
 links: 
