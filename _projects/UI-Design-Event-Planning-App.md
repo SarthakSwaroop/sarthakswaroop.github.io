@@ -3,6 +3,7 @@ layout: "project"
 type: "android-library"
 title: "UI-Design-Event-Planning-App"
 description: "A simple dialog making it quick and easy to add color picking functionality to any app."
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/output-onlinepngtools (1).png"
 repo: "fennifith/ColorPickerDialog"
 git: "git://github.com/fennifith/ColorPickerDialog.git"
 links: 
