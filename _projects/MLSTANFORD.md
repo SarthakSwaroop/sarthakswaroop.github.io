@@ -2,7 +2,7 @@
 layout: "project"
 type: "online-courses"
 title: "Machine Learning"
-description: "A widget dashboard to make your life easier!"
+description: "Online course offered by STANFORD University"
 repo: "fennifith/BlueRain"
 git: "git://github.com/fennifith/BlueRain.git"
 links: 
