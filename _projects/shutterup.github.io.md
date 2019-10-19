@@ -3,6 +3,7 @@ layout: "project"
 type: "website"
 title: "shutterup.github.io"
 description: "A collection of my photography"
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/icon-code-9.jpg"
 repo: "fennifith/photos"
 git: "git://github.com/fennifith/photos.git"
 links: 
