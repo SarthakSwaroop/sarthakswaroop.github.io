@@ -2,7 +2,7 @@
 layout: "project"
 type: "online-courses"
 title: "Calculus Applied!"
-description: "The only storage saving app that actually works! &#58;D"
+description: "Online course offered by HARVARDX"
 icon: "https://raw.githubusercontent.com/fennifith/Cleaner/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_web.png"
 repo: "fennifith/Cleaner"
 git: "git://github.com/fennifith/Cleaner.git"
