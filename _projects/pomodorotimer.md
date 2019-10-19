@@ -2,7 +2,7 @@
 layout: "project"
 type: "android-app"
 title: "Pomodoro Timer"
-description: "A basic \"news reader\" that sorts posts from various RSS feeds into categories."
+description: "App made using react native as part of CS50M"
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/output-onlinepngtools%20(2).png"
 repo: "fennifith/Feedage"
 git: "git://github.com/fennifith/Feedage.git"
