@@ -3,7 +3,7 @@ layout: "project"
 type: "online-courses"
 title: "Calculus Applied!"
 description: "Online course offered by HARVARDX"
-icon: "https://raw.githubusercontent.com/fennifith/Cleaner/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_web.png"
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/output-onlinepngtools.png"
 repo: "fennifith/Cleaner"
 git: "git://github.com/fennifith/Cleaner.git"
 links: 
