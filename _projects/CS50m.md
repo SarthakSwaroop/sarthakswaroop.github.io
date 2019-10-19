@@ -2,7 +2,7 @@
 layout: "project"
 type: "online-courses"
 title: "CS50's Mobile App Development with React Native"
-description: "ArtMe - A wallpaper app."
+description: "Online course offered by HARVARDX"
 repo: "fennifith/artme"
 git: "git://github.com/fennifith/artme.git"
 links: 
