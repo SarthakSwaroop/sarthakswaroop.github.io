@@ -3,6 +3,7 @@ layout: "project"
 type: "website"
 title: "Homepage"
 description: "A basic cellular automaton that makes pretty animations from images."
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/icon-code-9.jpg"
 repo: "fennifith/pixularautomaton"
 git: "git://github.com/fennifith/pixularautomaton.git"
 links: 
