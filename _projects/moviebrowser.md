@@ -3,7 +3,6 @@ layout: "project"
 type: "android-app"
 title: "Movie Browser"
 description: "App made using react native as part of CS50M"
-icon: "http://getdrawings.com/google-play-movies-icon#google-play-movies-icon-66.png"
 repo: "fennifith/MediaNotification"
 git: "git://github.com/fennifith/MediaNotification.git"
 links: 
