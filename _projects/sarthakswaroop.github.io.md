@@ -3,6 +3,7 @@ layout: "project"
 type: "website"
 title: "SarthakSwaroop.github.io"
 description: "My personal website."
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/icon-code-9.jpg"
 repo: "fennifith/fennifith.github.io"
 git: "git://github.com/fennifith/fennifith.github.io.git"
 links: 
