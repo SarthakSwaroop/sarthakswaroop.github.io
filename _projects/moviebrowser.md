@@ -3,6 +3,7 @@ layout: "project"
 type: "android-app"
 title: "Movie Browser"
 description: "App made using react native as part of CS50M"
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/output-onlinepngtools%20(3).png"
 repo: "fennifith/MediaNotification"
 git: "git://github.com/fennifith/MediaNotification.git"
 links: 
