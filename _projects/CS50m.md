@@ -3,7 +3,7 @@ layout: "project"
 type: "online-courses"
 title: "CS50's Mobile App Development with React Native"
 description: "Online course offered by HARVARDX"
-icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/imgbin-apprendimento-online-computer-icons-course-educational-technology-learning-learning-9EAiKJPivJtsN2sbJsaiNSscb.jpg"
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/output-onlinepngtools.png"
 repo: "fennifith/artme"
 git: "git://github.com/fennifith/artme.git"
 links: 
