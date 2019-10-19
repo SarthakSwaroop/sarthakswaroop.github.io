@@ -3,7 +3,7 @@ layout: "project"
 type: "research"
 title: "Distance Optimization With Graph Theory"
 description: "Documentation of stuff done in my robotics class."
-icon: "imageedit_1_4479864567.png"
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/image%20(3).png"
 repo: "fennifith/Robotics"
 git: "git://github.com/fennifith/Robotics.git"
 links: 
