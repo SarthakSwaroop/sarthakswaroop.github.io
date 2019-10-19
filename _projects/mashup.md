@@ -2,7 +2,8 @@
 layout: "project"
 type: "website"
 title: "MashUp"
-description: "Stuff I made messing around with p5js in my free time."
+description: "A website made as part of CS50"
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/icon-code-9.jpg"
 repo: "fennifith/P5Samples"
 git: "git://github.com/fennifith/P5Samples.git"
 links: 
