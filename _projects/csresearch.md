@@ -3,6 +3,7 @@ layout: "project"
 type: "research"
 title: "Diagnosis of Alzheimer's With Machine Learning"
 description: "Screening test to diagnose mental dementia"
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/Analytics-512.png"
 repo: "fennifith/cellularmusic"
 git: "git://github.com/fennifith/cellularmusic.git"
 links: 
