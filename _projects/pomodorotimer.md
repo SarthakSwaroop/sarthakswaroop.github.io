@@ -3,7 +3,7 @@ layout: "project"
 type: "android-app"
 title: "Pomodoro Timer"
 description: "A basic \"news reader\" that sorts posts from various RSS feeds into categories."
-icon: "https://raw.githubusercontent.com/fennifith/Feedage/master/app/src/main/ic_launcher-web.png"
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/timer-stopwatch-software-clock-icon-clock.jpg"
 repo: "fennifith/Feedage"
 git: "git://github.com/fennifith/Feedage.git"
 links: 
