@@ -2,7 +2,7 @@
 layout: "project"
 type: "android-app"
 title: "Movie Browser"
-description: "Slightly unstable attempt to replace all media notifications with Android O styled copies."
+description: "App made using react native as part of CS50M"
 icon: "https://raw.githubusercontent.com/fennifith/MediaNotification/master/app/src/main/ic_launcher-web.png"
 repo: "fennifith/MediaNotification"
 git: "git://github.com/fennifith/MediaNotification.git"
