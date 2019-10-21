@@ -3,7 +3,7 @@ layout: "project"
 type: "online-courses"
 title: "Machine Learning"
 description: "Online course offered by STANFORD University"
-icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/output-onlinepngtools.png"
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/Python-for-Data-Science_Icon.png"
 repo: "fennifith/BlueRain"
 git: "git://github.com/fennifith/BlueRain.git"
 links: 
