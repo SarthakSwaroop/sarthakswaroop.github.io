@@ -3,7 +3,7 @@ layout: "project"
 type: "android-library"
 title: "UI-Design-Event-Planning-App"
 description: "UI of an event planning app"
-icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/output-onlinepngtools (1).png"
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/web_page_interface_website_webpage_internet_site_project_homepage_layout_content_landing_platform_flat_design_icon-512.png"
 repo: "fennifith/ColorPickerDialog"
 git: "git://github.com/fennifith/ColorPickerDialog.git"
 links: 
