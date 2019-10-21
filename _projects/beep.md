@@ -20,11 +20,12 @@ contributors:
     url: "https://github.com/sarthakswaroop"
   
 screenshots: 
-  - "https://raw.githubusercontent.com/fennifith/Alarmio/master/.github/images/home.png"
-  - "https://raw.githubusercontent.com/fennifith/Alarmio/master/.github/images/alarms.png"
-  - "https://raw.githubusercontent.com/fennifith/Alarmio/master/.github/images/timers.png"
-  - "https://raw.githubusercontent.com/fennifith/Alarmio/master/.github/images/themes.png"
-  - "https://raw.githubusercontent.com/fennifith/Alarmio/master/.github/images/alert.gif"
+  - "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/PHOTO-2019-10-10-21-17-50 2.jpg"
+  - "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/PHOTO-2019-10-10-21-17-50.jpg"
+  - "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/PHOTO-2019-10-10-21-17-51 2.jpg"
+  - "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/PHOTO-2019-10-10-21-17-51.jpg"
+  - "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/PHOTO-2019-10-10-21-17-52.jpg"
+  - "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/PHOTO-2019-10-10-21-17-53.jpg"
   - login: "Sarthak Bansal"
     url: "https://github.com/sarthakswaroop"
 
