@@ -3,7 +3,7 @@ layout: "project"
 type: "online-courses"
 title: "AP® Calculus: Challenging Concepts from Calculus AB & Calculus BC"
 description: "Online course offered by DavidsonNEXT"
-icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/output-onlinepngtools.png"
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/kissclipart-math-round-icon-clipart-mathematics-calculation-33e8209c8abd5253.png"
 repo: "fennifith/APReader"
 git: "git://github.com/fennifith/APReader.git"
 links: 
