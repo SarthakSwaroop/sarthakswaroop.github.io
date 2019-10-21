@@ -16,7 +16,7 @@ links:
     icon: "/images/ic/play-store.svg"
 contributors: 
   - login: "Sarthak Swaroop Bansal"
-    avatar: "https://avatars1.githubusercontent.com/u/13000407?v=4"
+    avatar: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/mee.jpg"
     url: "https://github.com/sarthakswaroop"
   
 screenshots: 
