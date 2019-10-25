@@ -1,6 +1,6 @@
 ---
-title: "doubledotlabs"
-description: "A group of developers and designers building things for the open source community."
+title: "Codent Labs"
+description: "A startup of high school developers and designers building things for changing the world."
 avatar: "https://avatars2.githubusercontent.com/u/17306238?v=4"
-link: "https://github.com/doubledotlabs"
+link: "https://www.codentlabs.com"
 ---
