@@ -36,14 +36,7 @@
             <span class="item__title">{{ blog.title }}</span>
             {{ blog.date | date: "%B %e, %Y" }}
         </a>
-        {% endfor %}
-        {% endif %}
-        <h2>Contact</h2>
-        {% for contact in site.contact %}
-        <a class="link" href="{{ contact.url }}">
-            <i class="link__img material-icons">{{ contact.icon }}</i>
-            <span class="link__title">{{ contact.name }}</span>
-        </a>
+    
         {% endfor %}
         <br><br>
         <div class="--desktop">
