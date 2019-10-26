@@ -4,8 +4,6 @@ type: "android-library"
 title: "UI-Design-Messenger-App"
 description: "UI/UX of a Messenger APP"
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/output-onlinepngtools%20(6).png"
-repo: "fennifith/TimeDatePicker"
-git: "git://github.com/fennifith/TimeDatePicker.git"
 links: 
   - name: "GitHub"
     url: "https://github.com/SarthakSwaroop/UI-Design-Messenger-App"
