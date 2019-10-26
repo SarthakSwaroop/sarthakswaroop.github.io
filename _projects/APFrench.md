@@ -4,42 +4,23 @@ type: "online-courses"
 title: "On-Ramp to AP® French Language and Culture"
 description: "Online course offered by WESTONHS"
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/flag-round-250.png"
-repo: "fennifith/5217-web"
-git: "git://github.com/fennifith/5217-web.git"
 links: 
-  - name: "GitHub"
-    url: "https://github.com/fennifith/5217-web"
-    icon: "https://github.com/favicon.ico"
-  - name: "Issues"
-    url: "https://github.com/fennifith/5217-web/issues"
-    icon: "/images/ic/bug.svg"
-  - name: "GNU General Public License v2.0"
-    url: "https://choosealicense.com/licenses/gpl-2.0/"
-    icon: "/images/ic/copyright.svg"
+  - name: "EdX"
+    url: "https://https://www.edx.org/course/on-ramp-to-ap-french-language-and-culture"
+    icon: "https://www.edx.org/favicon.ico"
 contributors: 
-  - login: "jacksonhvisuals"
-    avatar: "https://avatars0.githubusercontent.com/u/29767267?v=4"
-    url: "https://github.com/jacksonhvisuals"
-  - login: "corcoran"
-    avatar: "https://avatars2.githubusercontent.com/u/1402817?v=4"
-    url: "https://github.com/corcoran"
-  - login: "xxyzz"
-    avatar: "https://avatars3.githubusercontent.com/u/21101839?v=4"
-    url: "https://github.com/xxyzz"
-  - login: "fennifith"
-    avatar: "https://avatars1.githubusercontent.com/u/13000407?v=4"
-    url: "https://github.com/fennifith"
+  - login: "Sarthak Swaroop Bansal"
+    avatar: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/mee.jpg"
+    url: "https://github.com/sarthakswaroop"
 languages: 
-  - "JavaScript"
-  - "HTML"
-  - "CSS"
+  - "French"
 isDocs: "false"
 isWiki: "false"
 pushed: "2018-03-02T13:51:21Z"
 ---
 
-![5217](https://i.imgur.com/m1F5vNM.jpg)
+![5217](https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/apfrench.png)
 
-# 5217-web
+# On-Ramp to AP® French Language and Culture
 
-5217, the fantastic productivity timer by Francisco Franco and Liam Spradlin, now on the Web!
+A class to boost your confidence before starting your AP® French Language and Culture class.
