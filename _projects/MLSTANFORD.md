@@ -7,9 +7,9 @@ icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/Python-for-Da
 repo: "sarthakswaroop/Stanford-ml-coursera"
 git: "https://github.com/SarthakSwaroop/Stanford-ml-coursera"
 links: 
-  - name: "EdX"
-    url: "https://https://www.edx.org/course/on-ramp-to-ap-french-language-and-culture"
-    icon: "https://www.edx.org/favicon.ico"
+  - name: "Coursera"
+    url: "https://www.coursera.org/learn/machine-learning"
+    icon: "https://www.coursera.org/favicon.ico"
 contributors: 
   - login: "Sarthak Swaroop Bansal"
     avatar: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/mee.jpg"
