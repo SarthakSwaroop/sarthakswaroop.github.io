@@ -4,40 +4,26 @@ type: "android-app"
 title: "ToDo"
 description: "App made using react native as part of CS50M"
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/output-onlinepngtools%20(4).png"
-repo: "fennifith/HackNA-Notes"
-git: "git://github.com/fennifith/HackNA-Notes.git"
+repo: "sarthakswaroop/Movie-Browser"
+git: "https://github.com/SarthakSwaroop/ToDo"
 links: 
   - name: "GitHub"
-    url: "https://github.com/fennifith/HackNA-Notes"
+    url: "https://github.com/sarthakswaroop/ToDo"
     icon: "https://github.com/favicon.ico"
-  - name: "Issues"
-    url: "https://github.com/fennifith/HackNA-Notes/issues"
-    icon: "/images/ic/bug.svg"
-  - name: "Apache License 2.0"
-    url: "https://choosealicense.com/licenses/apache-2.0/"
-    icon: "/images/ic/copyright.svg"
-  - name: "HackNA"
-    url: "http://hackna.org/"
-    icon: "https://hackna.org/favicon.ico"
 contributors: 
   - login: "Sarthak Swaroop Bansal"
-    avatar: "https://avatars1.githubusercontent.com/u/13000407?v=4"
-    url: "https://github.com/fennifith"
+    avatar: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/mee.jpg"
+    url: "https://github.com/sarthakswaroop"
+
 languages: 
-  - "Java"
+  - "React Native"
 isDocs: "true"
 isWiki: "false"
-pushed: "2019-06-21T18:00:46Z"
+pushed: "2019-09-28T19:14:28Z"
 ---
+ToDo is an app made by me as part of the CS50M online course
 
-## Setup Instructions
-
-After downloading [Android Studio](https://developer.android.com/studio/index.html) and downloading the contents of this repository (top left, green button, clone or download, download zip, extract zip, etc), go to "file > import project" and select the folder that the contents of this repository downloaded into.
-
-The slideshow presentation associated with this project can be viewed [here](https://docs.google.com/presentation/d/1fTwHMytRuMMXfRQP8JoqtDlFY-FxdY-QfUUfg-BTAZw/edit?usp=sharing).
-
-## Screenshots
-
-| Add A Note | View Notes | Remove A Note |
-|------------|------------|---------------|
-|![img](https://github.com/fennifith/HackNA-Notes/blob/master/./.github/images/new.png?raw=true)|![img](https://github.com/fennifith/HackNA-Notes/blob/master/./.github/images/list.png?raw=true)|![img](https://github.com/fennifith/HackNA-Notes/blob/master/./.github/images/remove.png?raw=true)|
+# Objectives
+Become more comfortable with JS and DOM manipulation.
+Gain experience with git and GitHub.
+Gain experience reading and adding to source code.
