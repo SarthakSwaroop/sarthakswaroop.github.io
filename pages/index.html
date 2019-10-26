@@ -44,7 +44,7 @@ profile: true
     </div>
     <div id="community">
         <div class="markdown">
-            <h2>Open Source</h2>
+            <h2>Self Learner</h2>
             <p>
                 I have a strong distaste for projects that purposefully attempt to hide the way that they function from their users.
                 There are many reasons to justify this distaste, but things such as <a href="https://en.wikipedia.org/wiki/Dark_pattern">
@@ -63,18 +63,14 @@ profile: true
                 <a href="https://matrix.to/#/!apQumaWwHIRDmTIYAr:matrix.org">matrix.org</a> and
                 <a href="https://t.me/joinchat/JV--FRZrSf-NJqeE0OGKXg">Telegram</a>.
             </p>
-            <iframe class="lozad" data-src="https://discordapp.com/widget?id=514625116706177035&theme=dark" width="350" height="450" style="width: 100%; max-width: 350px;" allowtransparency="true" frameborder="0"></iframe>
+            
             <h2>The Community</h2>
             <p>
                 While I have come far since I first started, I did not gain this much knowledge by myself; many people, one way or another,
                 have helped me to solve problems and learn new things along the way.
             </p>
             <p>If you find my projects interesting and want to see more, it is definitely worth the time to check out some of their work!</p>
-            <p>
-                {% for person in site.people %}
-                <a href="{{ person.link }}">{{ person.link | split: '//' | last }}</a>{% unless forloop.last %} &bull; {% endunless %}
-                {% endfor %}
-            </p>
+            
         </div>
     </div>
     <div id="about" class="markdown">
