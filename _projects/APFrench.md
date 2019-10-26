@@ -6,7 +6,7 @@ description: "Online course offered by WESTONHS"
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/flag-round-250.png"
 links: 
   - name: "EdX"
-    url: "https://https://www.edx.org/course/on-ramp-to-ap-french-language-and-culture"
+    url: "https://www.edx.org/course/on-ramp-to-ap-french-language-and-culture"
     icon: "https://www.edx.org/favicon.ico"
 contributors: 
   - login: "Sarthak Swaroop Bansal"
