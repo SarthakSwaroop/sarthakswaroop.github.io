@@ -19,7 +19,7 @@ isWiki: "false"
 pushed: "2018-03-02T13:51:21Z"
 ---
 
-![5217](https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/Screen%20Shot%202019-10-26%20at%2011.24.00%20PM.png)
+(https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/Screen%20Shot%202019-10-26%20at%2011.24.00%20PM.png)
 
 # AP® Calculus: Challenging Concepts from Calculus AB & Calculus BC
 
