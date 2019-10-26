@@ -3,6 +3,7 @@ layout: "project"
 type: "website"
 title: "Homepage"
 description: "A personalized homepage made as part of CS50"
+icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/icon-code-9.jpg"
 links: 
   - name: "GitHub"
     url: "https://github.com/sarthakswaroop"
