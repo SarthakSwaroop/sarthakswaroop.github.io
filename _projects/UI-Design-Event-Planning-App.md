@@ -20,5 +20,4 @@ pushed: "2019-01-16T20:06:55Z"
 ---
 
 
-![img](https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/Screen Shot 2019-10-27 at 2.17.17 AM.png) 
-
+![img](https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/Screen%20Shot%202019-10-27%20at%202.17.17%20AM.png) 
