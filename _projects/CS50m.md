@@ -6,7 +6,7 @@ description: "Online course offered by HARVARDX"
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/MOBILE_APPS_DEVELOPMENT-512.png"
 links: 
   - name: "EdX"
-    url: "https://https://www.edx.org/course/on-ramp-to-ap-french-language-and-culture"
+    url: "https://www.edx.org/course/cs50s-mobile-app-development-with-react-native"
     icon: "https://www.edx.org/favicon.ico"
 contributors: 
   - login: "Sarthak Swaroop Bansal"
