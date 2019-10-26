@@ -4,65 +4,24 @@ type: "website"
 title: "Similarities"
 description: "A webpage to determine similarities between words"
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/icon-code-9.jpg"
-repo: "fennifith/Scrurl"
-git: "git://github.com/fennifith/Scrurl.git"
 links: 
   - name: "GitHub"
-    url: "https://github.com/fennifith/Scrurl"
+    url: "https://github.com/sarthakswaroop"
     icon: "https://github.com/favicon.ico"
-  - name: "Issues"
-    url: "https://github.com/fennifith/Scrurl/issues"
-    icon: "/images/ic/bug.svg"
-  - name: "Apache License 2.0"
-    url: "https://choosealicense.com/licenses/apache-2.0/"
-    icon: "/images/ic/copyright.svg"
-  - name: "Website"
-    url: "https://jfenn.me/Scrurl/"
-    icon: "https://jfenn.me/images/favicon-32.ico"
 contributors: 
-  - login: "fennifith"
-    avatar: "https://avatars1.githubusercontent.com/u/13000407?v=4"
-    url: "https://github.com/fennifith"
+  - login: "Sarthak Swaroop Bansal"
+    avatar: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/mee.jpg"
+    url: "https://github.com/sarthakswaroop"
 languages: 
   - "HTML"
+  - "CSS"
   - "JavaScript"
 isDocs: "false"
 isWiki: "false"
-pushed: "2018-09-21T02:42:29Z"
+pushed: "2019-02-08T17:10:38Z"
 ---
+![5217](https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/Screen%20Shot%202019-10-27%20at%201.25.33%20AM.png)
 
-Probably one of the worst things I've ever used my free time for, [this](https://jfenn.me/Scrurl/) is a script that displays scrolling text in the address bar. It is almost entirely useless. Please do not use it for anything. That said, if you want to make it any worse than it already is, please feel free to make a PR.
+Determining whether two strings are identical is (relatively!) trivial: iterate over the characters in each, checking whether each and every one is identical. But it’s non-trivial to quantify just how dissimilar two (non-identical) strings are. And it can be time-consuming, as there are multiple (and often many!) ways to transform one string into the other.
 
-If for some reason you wish to change the message that scrolls in the url, simply prefix the query with an '@' symbol, for example: [https://jfenn.me/Scrurl/?@this_is_a_different_message](https://jfenn.me/Scrurl/?@this_is_a_different_message).
-
-## Usage
-
-If you for some reason do want to use this project in your own website, here's a quick guide to using it.
-
-### Define the Script Tag
-
-```html
-<script type="text/javascript" src="https://jfenn.me/Scrurl/scrurl.js"></script>
-```
-
-### Start the Scrolly Thing
-
-```javascript
-Scrurl.display("a bunch of text", {
-  "scrolldelay": 200, //the delay (in ms) between each scroll update
-  "scrollamount": 1,  //the amount of characters to scroll on each update
-  "direction": "left" //the direction to scroll through the characters in
-});
-```
-
-### Stop the Scrolly Thing
-This will stop the url from scrolling, but will not remove it from the address bar, because frankly I'm just too lazy to do that, and I don't think anyone will use it if I do.
-
-```javascript
-Scrurl.display(null);
-```
-
-### Sample Implementations
-
-- [Literally the simplest implementation possible](https://github.com/fennifith/Scrurl/blob/master/./examples/simple.js)
-- [Preventing Scrurl from interfering with address bar input](https://github.com/fennifith/Scrurl/blob/master/./examples/focusable.js)
+The challenge ahead is to measure the "edit distance" between two strings, the minimal number of additions, deletions, and/or edits necessary to transform one string into the other.
