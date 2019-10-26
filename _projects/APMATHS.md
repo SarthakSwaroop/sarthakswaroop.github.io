@@ -13,7 +13,7 @@ contributors:
     avatar: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/mee.jpg"
     url: "https://github.com/sarthakswaroop"
 languages: 
-  - "French"
+  - "Maths"
 isDocs: "false"
 isWiki: "false"
 pushed: "2018-03-02T13:51:21Z"
