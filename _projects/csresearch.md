@@ -11,7 +11,7 @@ links:
 contributors: 
   - login: "Sarthak Swaroop Bansal"
     avatar: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/mee.jpg"
-    url: "https://github.com/fennifith"
+    url: "https://github.com/sarthakswaroop"
 languages: 
   - "JavaScript"
   - "CSS"
