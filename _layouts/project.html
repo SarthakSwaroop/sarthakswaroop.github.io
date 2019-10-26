@@ -36,8 +36,16 @@
             <span class="item__title">{{ blog.title }}</span>
             {{ blog.date | date: "%B %e, %Y" }}
         </a>
-    
-       
+        {% endfor %}
+        {% endif %}
+        <h2>Contact</h2>
+        {% for contact in site.contact %}
+        <a class="link" href="{{ contact.url }}">
+            <i class="link__img material-icons">{{ contact.icon }}</i>
+            <span class="link__title">{{ contact.name }}</span>
+        </a>
+        {% endfor %}
+        <br><br>
         <div class="--desktop">
             {% for button in page.title-buttons %}
             {{ button | markdownify }}
@@ -59,12 +67,14 @@
                 <span class="nav__item__title">About</span>
             </button>
             {% if page.isWiki == "true" %}
-            <button class="nav__item" onclick="location.href='wiki/';">
-                <i class="nav__item__icon material-icons">assignment</i>
-                <span class="nav__item__title">Wiki</span>
+   
+            {% endif %}
+            {% if page.isDocs == "true" %}
+            <button class="nav__item" onclick="location.href='docs/';">
+                <i class="nav__item__icon material-icons">list_alt</i>
+                <span class="nav__item__title">Docs</span>
             </button>
             {% endif %}
-          
         </nav>
         <br>
         {% endif %}
