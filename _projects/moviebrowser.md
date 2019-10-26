@@ -5,7 +5,7 @@ title: "Movie Browser"
 description: "App made using react native as part of CS50M"
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/output-onlinepngtools%20(3).png"
 repo: "sarthakswaroop/Movie-Browser"
-git: "https://github.com/SarthakSwaroop/Movie-Browser/upload"
+git: "https://github.com/SarthakSwaroop/Movie-Browser"
 links: 
   - name: "GitHub"
     url: "https://github.com/sarthakswaroop/Movie-Browser"
