@@ -6,7 +6,7 @@ description: "Online course offered by DavidsonNEXT"
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/kissclipart-math-round-icon-clipart-mathematics-calculation-33e8209c8abd5253.png"
 links: 
   - name: "EdX"
-    url: "https://https://www.edx.org/course/on-ramp-to-ap-french-language-and-culture"
+    url: "https://www.edx.org/course/ap-calculus-challenging-concepts-from-calculus-ab-calculus-bc-2"
     icon: "https://www.edx.org/favicon.ico"
 contributors: 
   - login: "Sarthak Swaroop Bansal"
