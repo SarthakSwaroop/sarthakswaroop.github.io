@@ -6,7 +6,7 @@ description: "Online course offered by HARVARDX"
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/math.png"
 links: 
   - name: "EdX"
-    url: "https://https://www.edx.org/course/on-ramp-to-ap-french-language-and-culture"
+    url: "https://www.edx.org/course/calculus-applied-2"
     icon: "https://www.edx.org/favicon.ico"
 contributors: 
   - login: "Sarthak Swaroop Bansal"
