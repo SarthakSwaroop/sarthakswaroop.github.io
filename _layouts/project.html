@@ -70,10 +70,6 @@
    
             {% endif %}
             {% if page.isDocs == "true" %}
-            <button class="nav__item" onclick="location.href='docs/';">
-                <i class="nav__item__icon material-icons">list_alt</i>
-                <span class="nav__item__title">Docs</span>
-            </button>
             {% endif %}
         </nav>
         <br>
@@ -91,10 +87,6 @@
             <div id="content" class="e-content markdown">
                 {{ content }}
             </div>
-            <h4>
-                Last updated: <a class="u-url" href="{{ site.url }}{{ page.url }}">
-                <time class="dt-published dt-updated" datetime="{{ page.pushed }}">{{ page.pushed | date: "%B %e, %Y" }}</time></a>
-            </h4>
         </div>
     </main>
     
