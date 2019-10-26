@@ -4,56 +4,23 @@ type: "online-courses"
 title: "AP® Calculus: Challenging Concepts from Calculus AB & Calculus BC"
 description: "Online course offered by DavidsonNEXT"
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/kissclipart-math-round-icon-clipart-mathematics-calculation-33e8209c8abd5253.png"
-repo: "fennifith/APReader"
-git: "git://github.com/fennifith/APReader.git"
 links: 
-  - name: "GitHub"
-    url: "https://github.com/fennifith/APReader"
-    icon: "https://github.com/favicon.ico"
-  - name: "Issues"
-    url: "https://github.com/fennifith/APReader/issues"
-    icon: "/images/ic/bug.svg"
-  - name: "Apache License 2.0"
-    url: "https://choosealicense.com/licenses/apache-2.0/"
-    icon: "/images/ic/copyright.svg"
-  - name: "Android Police"
-    url: "https://www.androidpolice.com/"
-    icon: "https://www.androidpolice.com/favicon.ico"
-  - name: "APReader.App.apk (v1.2 stable)"
-    url: "https://github.com/fennifith/APReader/releases/download/v1.2/APReader.App.apk"
-    icon: "/images/ic/download.svg"
-  - name: "APReader.Wear.apk (v1.2 stable)"
-    url: "https://github.com/fennifith/APReader/releases/download/v1.2/APReader.Wear.apk"
-    icon: "/images/ic/download.svg"
+  - name: "EdX"
+    url: "https://https://www.edx.org/course/on-ramp-to-ap-french-language-and-culture"
+    icon: "https://www.edx.org/favicon.ico"
 contributors: 
-  - login: "fennifith"
-    avatar: "https://avatars1.githubusercontent.com/u/13000407?v=4"
-    url: "https://github.com/fennifith"
-screenshots: 
-  - "https://raw.githubusercontent.com/fennifith/APReader/master/.github/images/main.png"
-  - "https://raw.githubusercontent.com/fennifith/APReader/master/.github/images/article.png"
-  - "https://raw.githubusercontent.com/fennifith/APReader/master/.github/images/wear-main.png"
-  - "https://raw.githubusercontent.com/fennifith/APReader/master/.github/images/wear-article.png"
+  - login: "Sarthak Swaroop Bansal"
+    avatar: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/mee.jpg"
+    url: "https://github.com/sarthakswaroop"
 languages: 
-  - "Java"
-isDocs: "true"
+  - "French"
+isDocs: "false"
 isWiki: "false"
-pushed: "2019-01-08T13:58:30Z"
+pushed: "2018-03-02T13:51:21Z"
 ---
 
-APReader is small app that displays Android Police articles without waiting for the website to load.
+![5217](https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/Screen%20Shot%202019-10-26%20at%2011.24.00%20PM.png)
 
-Disclaimer: This app is not an official Android Police client. It was made by a follower of Android Police (me) for faster access to their articles than viewing the website.
+# AP® Calculus: Challenging Concepts from Calculus AB & Calculus BC
 
-## Screenshots
-### Phone
-
-|Home Screen|Article Screen|
-|-----|-----|
-|![img](https://github.com/fennifith/APReader/blob/master/./.github/images/main.png?raw=true)|![img](https://github.com/fennifith/APReader/blob/master/./.github/images/article.png?raw=true)|
-
-### Wear OS
-
-|Home Screen|Article Screen|
-|-----|-----|
-|![img](https://github.com/fennifith/APReader/blob/master/./.github/images/wear-main.png?raw=true)|![img](https://github.com/fennifith/APReader/blob/master/./.github/images/wear-article.png?raw=true)|
+Master the most difficult topics in your AP® Calculus AB & Calculus BC courses.
