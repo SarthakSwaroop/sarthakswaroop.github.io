@@ -23,7 +23,7 @@ pushed: "2019-09-28T19:14:28Z"
 ---
 Movie browser is an app made by me as part of the CS50M online course
 
-Objectives
+# Objectives
 Become more comfortable with JS and React Native.
 Develop workflow for developing mobile apps.
 Use live APIs for fetching data.
