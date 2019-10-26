@@ -5,7 +5,7 @@ title: "Machine Learning"
 description: "Online course offered by STANFORD University"
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/Python-for-Data-Science_Icon.png"
 repo: "sarthakswaroop/Stanford-ml-coursera"
-git: "git://github.com/sarthakswaroop/Stanford-ml-coursera.git"
+git: "https://github.com/SarthakSwaroop/Stanford-ml-coursera"
 links: 
   - name: "EdX"
     url: "https://https://www.edx.org/course/on-ramp-to-ap-french-language-and-culture"
