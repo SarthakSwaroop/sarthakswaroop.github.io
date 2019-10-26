@@ -48,7 +48,7 @@ Beep is a simple alarm clock that implements many useful features while followin
 
 | Home | Alarms | Timers | Themes | Ringing |
 |------|--------|--------|--------|---------|
-| ![img](https://github.com/fennifith/Alarmio/blob/master/./.github/images/home.png?raw=true) | ![img](https://github.com/fennifith/Alarmio/blob/master/./.github/images/alarms.png?raw=true) | ![img](https://github.com/fennifith/Alarmio/blob/master/./.github/images/timers.png?raw=true) | ![img](https://github.com/fennifith/Alarmio/blob/master/./.github/images/themes.png?raw=true) | ![img](https://github.com/fennifith/Alarmio/blob/master/./.github/images/alert.gif?raw=true) |
+| ![img](https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/PHOTO-2019-10-10-21-17-50 2.jpg) | ![img](https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/PHOTO-2019-10-10-21-17-50.jpg) | ![img](https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/PHOTO-2019-10-10-21-17-51 2.jpg) | ![img](https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/PHOTO-2019-10-10-21-17-51.jpg) | ![img](https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/PHOTO-2019-10-10-21-17-52.jpg) |
 
 ## Installation
 
