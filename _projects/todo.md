@@ -20,14 +20,14 @@ links:
     url: "http://hackna.org/"
     icon: "https://hackna.org/favicon.ico"
 contributors: 
-  - login: "fennifith"
+  - login: "Sarthak Swaroop Bansal"
     avatar: "https://avatars1.githubusercontent.com/u/13000407?v=4"
     url: "https://github.com/fennifith"
 languages: 
   - "Java"
 isDocs: "true"
 isWiki: "false"
-pushed: "2018-10-18T18:54:31Z"
+pushed: "2019-06-21T18:00:46Z"
 ---
 
 ## Setup Instructions
