@@ -1,13 +1,13 @@
 name: Sarthak Swaroop Bansal
 author: Sarthak Swaroop Bansal
-email: "sarthakswarup00@gmail.com"
+email: "me@sarthakbansal.com"
 bio: "Enjoys writing software on loud keyboards. Starts too many projects. Consumes food."
-description: "Writer of bad puns and slightly better software. This website contains information about my adventures in programming, current projects, and me."
+description: "Computer Science student at Delhi Public School, R.K.Puram. This website contains information about my adventures in programming, current projects, and me."
 icon: "/images/mee.jpg"
 image: "/images/headers/snowytrees.jpg"
 
-url: "https://sarthakswaroop.github.io"
-domainurl: "https://sarthakswaroop.github.io"
+url: "https://sarthakbansal.com"
+domainurl: "https://sarthakbansal.com"
 baseurl: "/"
 
 collections:
