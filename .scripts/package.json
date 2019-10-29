@@ -1,6 +1,6 @@
 {
   "name": "scripts",
-  "author": "Sarthak Swaroop Bansal <sarthakswarup00@gmail.com> (https://sarthakbansal.com/)",
+  "author": "Sarthak Swaroop Bansal <me@sarthakbansal.com> (https://sarthakbansal.com/)",
   "license": "Apache-2.0",
   "scripts": {
     "test": "mocha",
