@@ -3,4 +3,4 @@ Disallow:
 Disallow: /links/*
 Disallow: /redirects/*
 Disallow: /about/*
-Sitemap: https://sarthakswaroop.github.io/sitemap.xml
+Sitemap: https://sarthakbansal.com/sitemap.xml
