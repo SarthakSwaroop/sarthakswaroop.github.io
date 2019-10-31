@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "website"
-title: "shutterup.github.io"
+title: "shutterup.netlify.com"
 description: "A collection of my photography"
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/icon-code-9.jpg"
 repo: "fennifith/photos"
