@@ -6,12 +6,12 @@ description: "My personal website."
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/icon-code-9.jpg"
 links: 
   - name: "GitHub"
-    url: "https://github.com/sarthakswaroop"
+    url: "https://github.com/sarthakswaoop"
     icon: "https://github.com/favicon.ico"
 contributors: 
   - login: "Sarthak Swaroop Bansal"
     avatar: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/mee.jpg"
-    url: "https://github.com/sarthakswaroop"
+    url: "https://github.com/sarthakswroop"
 languages: 
   - "HTML"
   - "CSS"
