@@ -11,13 +11,11 @@ links:
 contributors: 
   - login: "Sarthak Swaroop Bansal"
     avatar: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/mee.jpg"
-    url: "https://github.com/sarthakswaroop"
+    url: "https://github.com/srthakswaroop"
 
 isDocs: "false"
 isWiki: "false"
 pushed: "2019-10-08T02:41:26Z"
 ---
 
-The aim of this research paper to optimize distance between mill gates and the main centre to minimize the transportation cost for sugar.
-
-
+The aim of this research paper to optimize distance 
