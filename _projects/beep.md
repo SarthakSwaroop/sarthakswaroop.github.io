@@ -17,7 +17,7 @@ links:
 contributors: 
   - login: "Sarthak Swaroop Bansal"
     avatar: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/mee.jpg"
-    url: "https://github.com/sarthakswaroop"
+    url: "https://github.com/sarthakwaroop"
   
 screenshots: 
   - "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/PHOTO-2019-10-10-21-17-50 2.jpg"
@@ -27,7 +27,7 @@ screenshots:
   - "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/PHOTO-2019-10-10-21-17-52.jpg"
   - "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/PHOTO-2019-10-10-21-17-53.jpg"
   - login: "Sarthak Bansal"
-    url: "https://github.com/sarthakswaroop"
+    url: "https://github.com/sarthakwaroop"
 
 
 languages: 
