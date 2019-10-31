@@ -11,7 +11,7 @@ links:
 contributors: 
   - login: "Sarthak Swaroop Bansal"
     avatar: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/mee.jpg"
-    url: "https://github.com/sarthakswar\oop"
+    url: "https://github.com/sarthakswaoop"
 languages: 
   - "French"
 isDocs: "false"
