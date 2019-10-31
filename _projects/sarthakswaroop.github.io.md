@@ -1,7 +1,7 @@
 ---
 layout: "project"
 type: "website"
-title: "SarthakSwaroop.github.io"
+title: "sarthakbansal.com"
 description: "My personal website."
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/icon-code-9.jpg"
 links: 
