@@ -4,11 +4,10 @@ type: "website"
 title: "shutterup.netlify.com"
 description: "A collection of my photography"
 icon: "https://raw.githubusercontent.com/SarthakSwaroop/RAW/master/icon-code-9.jpg"
-repo: "fennifith/photos"
-git: "git://github.com/fennifith/photos.git"
+
 links: 
   - name: "GitHub"
-    url: "https://github.com/sarthakswaroop"
+    url: "https://github.com/sarthakswarop"
     icon: "https://github.com/favicon.ico"
 contributors: 
   - login: "Sarthak Swaroop Bansal"
